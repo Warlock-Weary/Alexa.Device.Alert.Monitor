@@ -1,8 +1,6 @@
 # Alexa.Device.Alert.Monitor
+# Amazon Echo Skill app configured in Hubitat
 
-
-Amazon Echo devices
-Amazon Echo Skill app configured in Hubitat
 Virtual devices created by the app (automatic)
 :sparkles: Key Features
 Individual Device Monitors
